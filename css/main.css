@@ -1,0 +1,89 @@
+@import url(http://fonts.googleapis.com/css?family=Oxygen:400,300);
+@import url(http://fonts.googleapis.com/css?family=Bangers:400);
+
+body {
+    background-image: url(http://static.hdw.eweb4.com/media/wallpapers_1920x1080/photography/1/1/wood-floor-photography-hd-wallpaper-1920x1080-7847.jpg);
+    font-family: 'Oxygen', 'Helvetica Neue', 'Helvetica', 'sans-serif';
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.navbar{
+    height: 5%;
+}
+
+h4{
+    color: white;
+}
+
+p{
+    font-size: 20px;
+    font-weight: 500;
+    font-style: bold;
+    color: black;
+}
+
+.img span { position:relative; display:none; z-index:99; }
+
+
+@media(min-width:992px){
+h1{
+    font-family: 'Bangers', cursive;
+    font-size: 70px;
+}
+.img a { position:relative; }
+.img a span { position:relative; display:none; z-index:99; }
+.img span { display:block; }
+    body {
+    background-image: url(../img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-size: 18px;.
+    padding-bottom: 50px;
+
+    }
+    .container-fluid{
+        background-image: url(http://static.hdw.eweb4.com/media/wallpapers_1920x1080/photography/1/1/wood-floor-photography-hd-wallpaper-1920x1080-7847.jpg);
+        margin-left: 30%;
+        margin-top: 20px;
+        margin-right:20px;
+        margin-bottom: 20px;
+        border-radius: 10px;
+    }
+    header{
+    padding: 1em;
+    background-color: red;
+    color: #FFFFFF;
+    border-radius: 10px;
+}
+}
+
+header{
+    color:white;
+}
+
+
+.row{
+    padding-top: 1em;
+}
+
+table {
+    background-image: url(../img/ricepaper_v3.png);
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 15px;
+    color: black;
+
+}
+
+table, td, th {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: left;
+}
+
+
+
+
+
