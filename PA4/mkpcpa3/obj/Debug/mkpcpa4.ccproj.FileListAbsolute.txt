@@ -1,0 +1,2 @@
+\\psf\Home\Desktop\mkpcpa4\mkpcpa3\bin\Debug\ServiceConfiguration.cscfg
+\\psf\Home\Desktop\mkpcpa4\mkpcpa3\bin\Debug\ServiceDefinition.csdef
